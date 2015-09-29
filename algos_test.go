@@ -6,7 +6,7 @@ import (
 
 var ids []string
 var legitCount int = 5000
-var localCount int = 5
+var localCount int = 500
 
 func init() {
 	baseLocal := "spotify:local:::Diplo+x+Alvaro+-+6th+Gear+FINAL+MASTER"
